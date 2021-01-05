@@ -15,6 +15,7 @@ library(superml)
 library(udpipe)
 library(textstem)
 library(glmnet)
+print('starting process...')
 setwd("C:/Users/VP747QP/Desktop/AI Challenge")
 
 #Load Data
